@@ -10,7 +10,7 @@ const logos = [one, Two, Three, Four];
 
 const Banner2 = () => {
   return (
-    <div className="w-full overflow-hidden py-4">
+    <div className="w-full overflow-hidden py-4 mt-10">
       <motion.div
         className="flex gap-16 whitespace-nowrap"
         animate={{ x: ["0%", "-100%"] }}

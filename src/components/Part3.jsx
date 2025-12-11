@@ -3,7 +3,7 @@ import start from '../assets/Star.svg'
 
 const Part3 = () => {
   return (
-    <div className='flex justify-between mt-5'>
+    <div className='flex justify-between mt-20 mb-20'>
         <div className="left justify-center items-center p-10 ml-15  w-1/2">
             <h1 className='text-white text-5xl font-bold'>You do the business, <br />
           we'll handle the money.</h1>

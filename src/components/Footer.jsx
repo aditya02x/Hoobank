@@ -7,7 +7,7 @@ import logo from '../assets/logo.svg'
 
 const Footer = () => {
   return (
-    <footer className="bg-gradient-to-r from-black via-slate-950 to-slate-800 text-gray-300 py-12 px-6 mt-20 border-t border-white/10 backdrop-blur-lg">
+    <footer className="bg-gradient-to-r from-black  via-slate-950 to-slate-800 text-gray-300 py-12 px-6 mt-30 border-t border-white/10 backdrop-blur-lg">
       <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-4 gap-10">
 
         {/* Logo / About */}

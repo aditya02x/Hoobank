@@ -48,7 +48,7 @@ export default function Cardswipe() {
   ];
 
   return (
-    <div className="w-full max-w-5xl mx-auto py-10 mt-10">
+    <div className="w-full max-w-5xl mx-auto py-10 mt-20 mb-10">
       <Swiper
         slidesPerView={3}
         spaceBetween={20}
