@@ -36,9 +36,9 @@ const Hero = () => {
           <h1 className="text-4xl md:text-6xl lg:text-7xl">Payment Method</h1>
 
           {/* Paragraph */}
-          <p className="text-gray-400 font-medium text-[16px] md:text-[19px] tracking-wider mt-4 leading-relaxed">
-            <span className="block mb-2">Our team of experts use a methodology to identify</span>
-            <span className="block mb-2">the credit cards most likely to fit your needs. We</span>
+          <p className="text-gray-400 font-medium text-[16px] md:text-[19px] tracking-wider max-w-lg mt-4 leading-relaxed">
+            <span className="block md:mb-2">Our team of experts use a methodology to identify</span>
+            <span className="block md:mb-2">the credit cards most likely to fit your needs. We</span>
             <span className="block">examine annual percentage rates, annual fees.</span>
           </p>
         </div>
